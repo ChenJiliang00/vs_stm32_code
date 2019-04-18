@@ -1,0 +1,135 @@
+VisualGDB/Debug/main.o: main.c \
+ C:/Users/Administrator/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F1xxxx/CMSIS_StdPeriph/CM3/DeviceSupport/ST/STM32F10x/stm32f10x.h \
+ C:/Users/Administrator/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F1xxxx/CMSIS_StdPeriph/CM3/CoreSupport/core_cm3.h \
+ c:\sysgcc\arm-eabi\lib\gcc\arm-eabi\7.2.0\include\stdint.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\stdint.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\_default_types.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\features.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\_newlib_version.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_intsup.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_stdint.h \
+ C:/Users/Administrator/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F1xxxx/CMSIS_StdPeriph/CM3/DeviceSupport/ST/STM32F10x/system_stm32f10x.h \
+ systemp/led/led.h \
+ C:/Users/Administrator/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F1xxxx/STM32F10x_StdPeriph_Driver/inc/stm32f10x_gpio.h \
+ C:/Users/Administrator/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F1xxxx/STM32F10x_StdPeriph_Driver/inc/stm32f10x_rcc.h \
+ systemp/delay/delay.h systemp/key/key.h \
+ C:/Users/Administrator/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F1xxxx/STM32F10x_StdPeriph_Driver/inc/misc.h \
+ systemp/usart/usart.h \
+ C:/Users/Administrator/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F1xxxx/STM32F10x_StdPeriph_Driver/inc/stm32f10x_usart.h \
+ C:/Users/Administrator/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F1xxxx/STM32F10x_StdPeriph_Driver/inc/stm32f10x_dma.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\stdio.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\_ansi.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\newlib.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\config.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\ieeefp.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\cdefs.h \
+ c:\sysgcc\arm-eabi\lib\gcc\arm-eabi\7.2.0\include\stddef.h \
+ c:\sysgcc\arm-eabi\lib\gcc\arm-eabi\7.2.0\include\stdarg.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\reent.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\_ansi.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_types.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\_types.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\lock.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\types.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\endian.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\_endian.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\select.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_sigset.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_timeval.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\timespec.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_timespec.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_pthreadtypes.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\types.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\stdio.h \
+ systemp/timer/timer.h \
+ C:/Users/Administrator/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F1xxxx/STM32F10x_StdPeriph_Driver/inc/stm32f10x_tim.h
+
+C:/Users/Administrator/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F1xxxx/CMSIS_StdPeriph/CM3/DeviceSupport/ST/STM32F10x/stm32f10x.h:
+
+C:/Users/Administrator/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F1xxxx/CMSIS_StdPeriph/CM3/CoreSupport/core_cm3.h:
+
+c:\sysgcc\arm-eabi\lib\gcc\arm-eabi\7.2.0\include\stdint.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\stdint.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\_default_types.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\features.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\_newlib_version.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_intsup.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_stdint.h:
+
+C:/Users/Administrator/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F1xxxx/CMSIS_StdPeriph/CM3/DeviceSupport/ST/STM32F10x/system_stm32f10x.h:
+
+systemp/led/led.h:
+
+C:/Users/Administrator/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F1xxxx/STM32F10x_StdPeriph_Driver/inc/stm32f10x_gpio.h:
+
+C:/Users/Administrator/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F1xxxx/STM32F10x_StdPeriph_Driver/inc/stm32f10x_rcc.h:
+
+systemp/delay/delay.h:
+
+systemp/key/key.h:
+
+C:/Users/Administrator/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F1xxxx/STM32F10x_StdPeriph_Driver/inc/misc.h:
+
+systemp/usart/usart.h:
+
+C:/Users/Administrator/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F1xxxx/STM32F10x_StdPeriph_Driver/inc/stm32f10x_usart.h:
+
+C:/Users/Administrator/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F1xxxx/STM32F10x_StdPeriph_Driver/inc/stm32f10x_dma.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\stdio.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\_ansi.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\newlib.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\config.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\ieeefp.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\cdefs.h:
+
+c:\sysgcc\arm-eabi\lib\gcc\arm-eabi\7.2.0\include\stddef.h:
+
+c:\sysgcc\arm-eabi\lib\gcc\arm-eabi\7.2.0\include\stdarg.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\reent.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\_ansi.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_types.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\_types.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\lock.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\types.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\endian.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\_endian.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\select.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_sigset.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_timeval.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\timespec.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_timespec.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_pthreadtypes.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\types.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\stdio.h:
+
+systemp/timer/timer.h:
+
+C:/Users/Administrator/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F1xxxx/STM32F10x_StdPeriph_Driver/inc/stm32f10x_tim.h:

@@ -1,0 +1,5 @@
+﻿  iic.c
+  Linking ../VisualGDB/Debug/stm32f103rct6...
+  ------------------- Memory utilization report -------------------
+  Used FLASH: 12KB out of 256KB (4%)
+  Used SRAM: 1100 bytes out of 48KB (2%)

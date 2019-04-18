@@ -1,0 +1,5 @@
+﻿  usart.c
+  Linking ../VisualGDB/Debug/stm32f103rct6...
+  ------------------- Memory utilization report -------------------
+  Used FLASH: 4860 bytes out of 256KB (1%) [+112]
+  Used SRAM: 56 bytes out of 48KB (0%)

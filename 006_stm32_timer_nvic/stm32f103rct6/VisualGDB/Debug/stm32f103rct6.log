@@ -1,0 +1,5 @@
+﻿  timer.c
+  Linking ../VisualGDB/Debug/stm32f103rct6...
+  ------------------- Memory utilization report -------------------
+  Used FLASH: 5724 bytes out of 256KB (2%) [-208]
+  Used SRAM: 60 bytes out of 48KB (0%)

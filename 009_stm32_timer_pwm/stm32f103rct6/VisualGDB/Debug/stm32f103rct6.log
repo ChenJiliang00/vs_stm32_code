@@ -1,0 +1,12 @@
+﻿  main.c
+  timer.c
+  usart.c
+  main.c: In function 'main':
+main.c(18,2): warning :  implicit declaration of function 'exti_init'; did you mean 'key_init'? [-Wimplicit-function-declaration]
+    exti_init();
+    ^~~~~~~~~
+    key_init
+  Linking ../VisualGDB/Debug/stm32f103rct6...
+  ------------------- Memory utilization report -------------------
+  Used FLASH: 8808 bytes out of 256KB (3%) [+328]
+  Used SRAM: 584 bytes out of 48KB (1%) [+8]

@@ -1,0 +1,23 @@
+VisualGDB/Debug/core_cm3.o: \
+ C:/Users/Administrator/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F1xxxx/CMSIS_StdPeriph/CM3/CoreSupport/core_cm3.c \
+ c:\sysgcc\arm-eabi\lib\gcc\arm-eabi\7.2.0\include\stdint.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\stdint.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\_default_types.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\features.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\_newlib_version.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_intsup.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_stdint.h
+
+c:\sysgcc\arm-eabi\lib\gcc\arm-eabi\7.2.0\include\stdint.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\stdint.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\_default_types.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\features.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\_newlib_version.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_intsup.h:
+
+c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_stdint.h:
